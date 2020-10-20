@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="text_cny">0.0</string>
+    <string name="text_of_exchanged">0.0</string>
+    <string name="text_cny_hint">Input CNY</string>
+    <string name="text_usd">0.0</string>
+    <string name="text_euro">0.0</string>
+    <string name="text_krw">0.0</string>
+
+</resources>
