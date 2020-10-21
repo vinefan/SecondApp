@@ -115,9 +115,7 @@ public class MainActivity extends ListActivity implements Runnable, AdapterView.
             double cny = Float.parseFloat(str_cny);
 
             double exchanged_cny = 0.0;
-//            double rate_of_usd = 0.1477;
-//            double rate_of_euro = 0.1256;
-//            double rate_of_krw = 171.3421;
+            
             if (btn_exchange.getId() == R.id.btn_usd){
                 exchanged_cny = cny*rates[0];
             }else if (btn_exchange.getId() == R.id.btn_euro){
